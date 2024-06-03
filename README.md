@@ -44,7 +44,7 @@ This pie chart shows the distribution of various job types in Brisbane.
 This bar chart illustrates the number of job postings in the top 20 cities in Australia, highlighting major job markets.
 
 ### 7. Location & Average Lowest Salary
-![Location & Average Lowest Salary]([1. Dataset description.jpg](https://github.com/amitgrewal4/2_Data_Visualisation_Seek.com.au/assets/140138833/bcceeed1-c80c-485d-8ae3-b79b93c785be)
+![Location & Average Lowest Salary](https://github.com/amitgrewal4/2_Data_Visualisation_Seek.com.au/assets/140138833/bcceeed1-c80c-485d-8ae3-b79b93c785be)
 This box plot shows the distribution of the lowest salaries across different locations in Australia.
 
 
